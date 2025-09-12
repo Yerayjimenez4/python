@@ -9,9 +9,9 @@ yeray.jimenez4@educa.madrid.org
 
 Mi experiencia laboral ha sido como profesor de niños de parkour
 + Aficiones
-  - Parkour
-  - Fotografia
-  - Escuchar musica
+  1. Parkour
+  2. Fotografia
+  3. Escuchar musica
 + Idiomas
   - Español
   - Ingles
